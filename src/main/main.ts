@@ -237,6 +237,7 @@ const createWindow = async () => {
     minWidth: 700,
     title: 'CaesarAIMusic',
     webPreferences: {
+      devTools: false,
       preload: app.isPackaged
         ? path.join(__dirname, 'preload.js')
         : path.join(__dirname, '../../.erb/dll/preload.js'),
