@@ -1,0 +1,11 @@
+***** IMPORTANT *****
+
+Please do not try to edit the contents of the 'Nora exports' folder.
+
+This will most likely break the app in your system and you won't be able
+to restore your data in Nora again.
+
+These files are in plain-text to show users that there's nothing to hide 
+in these config files.
+
+***** ***** ***** *****
