@@ -166,6 +166,7 @@
     "react-dom": "^18.2.0",
     "react-i18next": "^13.5.0",
     "react-window": "^1.8.9",
+    "sharp": "^0.33.2",
     "songlyrics": "^2.4.5"
   },
   "description": "An elegant music player built using Electron and React. Inspired by Oto Music for Android by Piyush Mamidwar.",
